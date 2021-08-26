@@ -1,0 +1,10 @@
+C:\Users\reale\Desktop\SCHOOL\Software Engineering\P1\repo\P1 App\P1 App\bin\Debug\P1 App.exe.config
+C:\Users\reale\Desktop\SCHOOL\Software Engineering\P1\repo\P1 App\P1 App\bin\Debug\P1 App.exe
+C:\Users\reale\Desktop\SCHOOL\Software Engineering\P1\repo\P1 App\P1 App\bin\Debug\P1 App.pdb
+C:\Users\reale\Desktop\SCHOOL\Software Engineering\P1\repo\P1 App\P1 App\obj\Debug\P1 App.csprojAssemblyReference.cache
+C:\Users\reale\Desktop\SCHOOL\Software Engineering\P1\repo\P1 App\P1 App\obj\Debug\P1_App.FormHelloWorld.resources
+C:\Users\reale\Desktop\SCHOOL\Software Engineering\P1\repo\P1 App\P1 App\obj\Debug\P1_App.Properties.Resources.resources
+C:\Users\reale\Desktop\SCHOOL\Software Engineering\P1\repo\P1 App\P1 App\obj\Debug\P1 App.csproj.GenerateResource.cache
+C:\Users\reale\Desktop\SCHOOL\Software Engineering\P1\repo\P1 App\P1 App\obj\Debug\P1 App.csproj.CoreCompileInputs.cache
+C:\Users\reale\Desktop\SCHOOL\Software Engineering\P1\repo\P1 App\P1 App\obj\Debug\P1 App.exe
+C:\Users\reale\Desktop\SCHOOL\Software Engineering\P1\repo\P1 App\P1 App\obj\Debug\P1 App.pdb
