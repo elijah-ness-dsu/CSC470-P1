@@ -8,6 +8,8 @@ namespace P1_App
 {
     static class Program
     {
+        public static object Controls { get; private set; }
+
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
